@@ -1,0 +1,12 @@
+.*
+!.gitignore
+
+# Java
+target
+
+# Python
+*.pyc
+__pycache__
+
+# Model
+*.h5
